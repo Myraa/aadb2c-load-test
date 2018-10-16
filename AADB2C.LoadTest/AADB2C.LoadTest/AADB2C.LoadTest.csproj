@@ -69,8 +69,6 @@
     <None Include="LocalAccount_SignUp.webtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Readme.md" />
-    <None Include="Readme.pdf" />
     <None Include="POST_LocalAccount_SignIn.webtest">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
